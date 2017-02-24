@@ -1,2 +1,2 @@
-# ScheduleAdjuster
-to adjust schedule between several members
+# Chat
+Sample Chat Application, made by React on Firebase.
